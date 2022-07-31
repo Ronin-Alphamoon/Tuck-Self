@@ -1,4 +1,4 @@
-Time of purchase is Fri Jan 18 17:56:16 UTC 2019
+Time of purchase is Fri Jan 18 17:56:16 UTC 2022
 
 
 Name of buyer is le
@@ -40,6 +40,6 @@ Total Kinsley contribution equals R0.0
 Total Vet-cake contribution equals R0.0
 
 
-Total Go-slo contribution equals R0.0
+Total Go-slo contribution equals R0
 
 
